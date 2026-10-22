@@ -185,7 +185,7 @@ export default function Home() {
           <h1 className="text-3xl font-black tracking-tight text-emerald-400">
             UnitSmart
           </h1>
-          <h1 style={{ color: "red", fontSize: 32 }}>UNITSMART - PRUEBA 123</h1>
+
           <p className="mt-2 text-sm text-slate-400">
             Compara precios y descubre cuál producto conviene más.
           </p>
