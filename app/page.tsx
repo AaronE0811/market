@@ -134,7 +134,6 @@ export default function Home() {
   function handleAddProduct(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
 
-    alert("El formulario sí está funcionando");
 
     const parsedPrice = parsePositiveNumber(price);
     const parsedQuantity = parsePositiveNumber(quantity);
